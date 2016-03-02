@@ -1,9 +1,0 @@
-	word2vec-source=twitter dims=100 task=age kernel=rbf gamma=0.001 C=10	word2vec-source=twitter dims=100 task=age kernel=rbf gamma=0.001 C=1000	word2vec-source=twitter dims=100 task=age kernel=rbf gamma=1 C=10	word2vec-source=twitter dims=100 task=age kernel=rbf gamma=1 C=1000	word2vec-source=wiki-giga dims=100 task=age kernel=rbf gamma=0.001 C=10	word2vec-source=wiki-giga dims=100 task=age kernel=rbf gamma=0.001 C=1000	word2vec-source=wiki-giga dims=100 task=age kernel=rbf gamma=1 C=10	word2vec-source=wiki-giga dims=100 task=age kernel=rbf gamma=1 C=1000
-word2vec-source=twitter dims=100 task=age kernel=rbf gamma=0.001 C=10			0.000285118083632	0.000157052284231			0.000157052284231	0.000157052284231
-word2vec-source=twitter dims=100 task=age kernel=rbf gamma=0.001 C=1000			0.000285118083632	0.000157052284231			0.000157052284231	0.000157052284231
-word2vec-source=twitter dims=100 task=age kernel=rbf gamma=1 C=10	0.000285118083632	0.000285118083632			0.000285118083632	0.000285118083632		
-word2vec-source=twitter dims=100 task=age kernel=rbf gamma=1 C=1000	0.000157052284231	0.000157052284231			0.000157052284231	0.000157052284231		
-word2vec-source=wiki-giga dims=100 task=age kernel=rbf gamma=0.001 C=10			0.000285118083632	0.000157052284231			0.000157052284231	0.000157052284231
-word2vec-source=wiki-giga dims=100 task=age kernel=rbf gamma=0.001 C=1000			0.000285118083632	0.000157052284231			0.000157052284231	0.000157052284231
-word2vec-source=wiki-giga dims=100 task=age kernel=rbf gamma=1 C=10	0.000157052284231	0.000157052284231			0.000157052284231	0.000157052284231		
-word2vec-source=wiki-giga dims=100 task=age kernel=rbf gamma=1 C=1000	0.000157052284231	0.000157052284231			0.000157052284231	0.000157052284231		
